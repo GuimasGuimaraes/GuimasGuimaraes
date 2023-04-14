@@ -3,7 +3,7 @@ Olá! Meu nome é Guilherme Guimarães 👋<br><br>💻 Sou estudante de Engenha
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Guilherme])<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeguimaraes-dev/)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Guilherme](https://www.instagram.com/guilherme_slguimaraes/)])<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeguimaraes-dev/)<br>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) Guilherme Guimarães#3044
 
 # 💻 Tech Stack:
