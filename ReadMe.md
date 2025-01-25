@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Meu nome é Guilherme Guimarães 👋<br><br>💻 Sou estudante de Engenharia de Software e estou em busca de um estágio!<br>💻 Atualmente estudando Java e Spring boot.<br>💻 Entusiasta em desenvolvimento Full Stack.<br><br>Contato <br>📬 Guilhermeguimaraes970@gmail.com
+Olá! Meu nome é Guilherme Guimarães 👋<br><br>💻 Sou Analista de sistemas<br>💻 Atualmente estudando Java e Spring boot.<br>💻 Entusiasta em desenvolvimento Backend Java.<br><br>Contato <br>📬 Guilhermeguimaraes970@gmail.com
 
 
 ## 🌐 Socials:
